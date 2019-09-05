@@ -36,6 +36,12 @@ Among the Republicans, major portion of donation was raised for Romney.
 
 ***************************************************************************************************************
 
-Tableau Techniques Used - Data Source level filters, data pivot , filters, interactive filters,
-filters with parameters, bins, bins with parameters, aggregation at various levels, 
-calculated fields, table calculations in vertical directions etc
+Tableau Techniques Used - 
+- Data Source level filters
+- data pivot
+- filters , interactive filters , filters with parameters
+- bins, bins with parameters, 
+- aggregation at various levels, 
+- calculated fields, table calculations in vertical directions etc
+- dashboard
+- story
